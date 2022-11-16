@@ -1,0 +1,1 @@
+# This folder will contain app business logic. Handle all authentication and other binary files in here that aren't technically "user-facing." Make sure to separate into subfolders based on the function or logic.

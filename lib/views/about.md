@@ -1,0 +1,1 @@
+# The Views Folder is for the use of entire screens (A view might be the Home page of the app, or the "add friends" page, or any other functional page that uses the entire screen, or a certain layout)
